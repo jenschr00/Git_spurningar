@@ -26,3 +26,8 @@ git diff commit1 commit2 Sjá breytingarnar á milli commit1 og commit2
 
 6.Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 eftir hverja spurningu eða málsgrein, það er gott að viti allar breytingarnar og af hverjum þær eru gerðar
+
+7.Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+Working direcotry er direcotryð sem þú ert í
+staging area er skrá sem geymir það sem mun fara næst í commit
+Repository er geymsla sem geymir skrár og verkefni

@@ -37,3 +37,6 @@ forritunar verkefnum
 
 9.Hver fann upp GIT?
 Af Linux Torvalds
+
+10.Hvar er GIT helst notað?
+Á vinnustöðum, oftast fyrir forritun

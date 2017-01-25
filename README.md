@@ -12,3 +12,8 @@ git log = sýnir commit logs
 git status = Gáir á stöðu git repository
 git diff = sýnir breytingar á commits, commit og working tree,og svo fleira
 git checkout = skyptir um greynar og endurheimtar workign tree skrár
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+git diff sýnir breytingar á commits, commit og working tree,og svo fleira 
+git diff --staged skoða breytingar sem hafa ekki verið commit
+git diff commit1 commit2 Sjá breytingarnar á milli commit1 og commit2 

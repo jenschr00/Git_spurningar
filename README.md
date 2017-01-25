@@ -31,3 +31,6 @@ eftir hverja spurningu eða málsgrein, það er gott að viti allar breytingarn
 Working direcotry er direcotryð sem þú ert í
 staging area er skrá sem geymir það sem mun fara næst í commit
 Repository er geymsla sem geymir skrár og verkefni
+
+8.Hvenær er sniðugt að nota greinar (branches)? 
+forritunar verkefnum

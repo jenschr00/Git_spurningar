@@ -17,3 +17,6 @@ git checkout = skyptir um greynar og endurheimtar workign tree skrár
 git diff sýnir breytingar á commits, commit og working tree,og svo fleira 
 git diff --staged skoða breytingar sem hafa ekki verið commit
 git diff commit1 commit2 Sjá breytingarnar á milli commit1 og commit2 
+
+4. Hvað er útgáfustýring (e.version control)? 
+Það er stjórnun af breytingum af skrám

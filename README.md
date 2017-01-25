@@ -20,3 +20,6 @@ git diff commit1 commit2 Sjá breytingarnar á milli commit1 og commit2
 
 4. Hvað er útgáfustýring (e.version control)? 
 Það er stjórnun af breytingum af skrám
+
+5.Hverjir eru helstu kostir við að nota GIT?
+Þegar það þarf að vinna saman á verkefnum og fyrir fyrirtæki

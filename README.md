@@ -34,3 +34,6 @@ Repository er geymsla sem geymir skrár og verkefni
 
 8.Hvenær er sniðugt að nota greinar (branches)? 
 forritunar verkefnum
+
+9.Hver fann upp GIT?
+Af Linux Torvalds
